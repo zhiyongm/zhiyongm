@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhiyongm
-- 👀 I’m interested in **coding** 💻, **blockchain** 🔗, **cloud native technology** ☁️, **Linux** 🐧, **singing** 🎤, **finance** 💰, **learning Cantonese** 🗣️, and **Hong Kong pop music** 🎶.
+- 👀 I’m interested in **coding** 💻, **blockchain** 🔗, **cloud native technology** ☁️, **Linux** 🐧, **finance** 💰, **singing** 🎤, **Cantonese** 🗣️, and **Hong Kong pop music** 🎶.
 - 🌱 I’m currently pursuing a doctoral degree in **computer science**...
 
 <!---
